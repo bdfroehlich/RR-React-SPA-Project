@@ -1,3 +1,16 @@
 .App {
   text-align: center;
 }
+
+.movieImg {
+  width: 250px;
+}
+
+.movieContainer {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+

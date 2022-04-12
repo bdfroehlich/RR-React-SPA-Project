@@ -8,7 +8,7 @@ const MovieContainer = (props) => {
     })
 
     return (
-        <div>
+        <div className="movieContainer">
             {displayMovie}
         </div>
     )
